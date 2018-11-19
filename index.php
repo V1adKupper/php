@@ -18,7 +18,7 @@
 
 <?php 
 
-$arr = array(1,45,3,4,5); 
+$arr = array(41,22,46,0,-2,-3,41,0,-17,-1); 
 for ($i = 0; $i < count($arr); $i++) {   
     if ($i == 0) { 
         $max = $arr[$i]; 
